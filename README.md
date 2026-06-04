@@ -2,7 +2,7 @@
 
 <img class = "foto_minha" src="foto.png" alt="Imagem de Paulo Fonseca" width="33%"> -->
 
-## Quem sou eu?
+# Quem sou eu?
 
 Meu nome é __Paulo Fonseca__, sou nascido em Recife, Brasil e atualmente estou cursando __Ciência da Computação na CESAR School__. Tenho forte motivação pelo estudo da Computação, em especial, no momento, na área de Back-End. Apesar disso, já trabalhei como designer amador freelancer, o que me motiva por em breve buscar uma atuação como __Full-Stack__.
 
