@@ -1,8 +1,10 @@
 # Paulo Fonseca
 
+<img class = "foto_minha" src="foto.png" alt="Imagem de Paulo Fonseca" width="33%">
+
 ## Quem eu sou?
 
-Meu nome é Paulo Fonseca, sou nascido em Recife, Brasil e atualmente estou cursando __Ciência da Computação na CESAR School__. Tenho forte motivação pelo estudo da Computação, em especial, no momento, na área de Back-End. Apesar disso, já trabalhei como designer amador freelancer (meu portfólio está disponível em Contatos), o que me motiva por em breve buscar uma atuação como __Full-Stack__.
+Meu nome é Paulo Fonseca, sou nascido em Recife, Brasil e atualmente estou cursando __Ciência da Computação na CESAR School__. Tenho forte motivação pelo estudo da Computação, em especial, no momento, na área de Back-End. Apesar disso, já trabalhei como designer amador freelancer, o que me motiva por em breve buscar uma atuação como __Full-Stack__.
 
 ## Meus interesses
 
