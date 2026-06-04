@@ -19,6 +19,6 @@ Meu nome é __Paulo Fonseca__, sou nascido em Recife, Brasil e atualmente estou 
 
 ## Contato
 
-* Email: paulinhoff2007@gmail.com
-* GitHub: [github.com/paulofonsecacsr](github.com/paulofonsecacsr)
-* Behance: [be.net/pfpxm](be.net/pfpxm)
+* Email: [paulinhoff2007@gmail.com](mailto:paulinhoff2007@gmail.com)
+* GitHub: [github.com/paulofonsecacsr](https://github.com/paulofonsecacsr)
+* Behance: [be.net/pfpxm](https://be.net/pfpxm)
