@@ -1,16 +1,21 @@
-## Hi there 👋
+# Paulo Fonseca
 
-<!--
-**paulofonsecacsr/paulofonsecacsr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Quem eu sou?
 
-Here are some ideas to get you started:
+Meu nome é Paulo Fonseca, sou nascido em Recife, Brasil e atualmente estou cursando __Ciência da Computação na CESAR School__. Tenho forte motivação pelo estudo da Computação, em especial, no momento, na área de Back-End. Apesar disso, já trabalhei como designer amador freelancer (meu portfólio está disponível em Contatos), o que me motiva por em breve buscar uma atuação como __Full-Stack__.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Meus interesses
+
+* Python, Java
+* JS
+* Cibersegurança
+
+## Habilidades (até o momento)
+* Python
+* Programação de Arduino em C++
+
+## Contato
+* Telefone: (81) 99363-2507
+* Email: paulinhoff2007@gmail.com
+* GitHub: github.com/paulofonsecacsr
+* Behance: be.net/pfpxm
