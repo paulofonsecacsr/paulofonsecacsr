@@ -1,3 +1,5 @@
+# Paulo Fonseca
+
 <img class = "foto_minha" src="foto.png" alt="Imagem de Paulo Fonseca" width="33%">
 
 ## Quem sou eu?
@@ -10,12 +12,13 @@ Meu nome é __Paulo Fonseca__, sou nascido em Recife, Brasil e atualmente estou 
 * JS
 * Cibersegurança
 
-## Habilidades (até o momento)
+## Melhores habilidades (até o momento)
+
 * Python
 * Programação de Arduino em C++
 
 ## Contato
-* Telefone: (81) 99363-2507
+
 * Email: paulinhoff2007@gmail.com
-* GitHub: github.com/paulofonsecacsr
-* Behance: be.net/pfpxm
+* GitHub: [github.com/paulofonsecacsr](github.com/paulofonsecacsr)
+* Behance: [be.net/pfpxm](be.net/pfpxm)
