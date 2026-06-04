@@ -1,6 +1,6 @@
-# Paulo Fonseca
+<!-- # Paulo Fonseca
 
-<img class = "foto_minha" src="foto.png" alt="Imagem de Paulo Fonseca" width="33%">
+<img class = "foto_minha" src="foto.png" alt="Imagem de Paulo Fonseca" width="33%"> -->
 
 ## Quem sou eu?
 
