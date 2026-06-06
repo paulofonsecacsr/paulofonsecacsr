@@ -10,7 +10,7 @@ Meu nome é __Paulo Fonseca__, sou nascido em Recife, Brasil e atualmente estou 
 
 * Python, __Java__
 * __HTML, CSS, JS__
-* Cibersegurança
+* Cybersegurança
 
 ## Melhores habilidades (até o momento)
 
