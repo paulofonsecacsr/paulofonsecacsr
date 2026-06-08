@@ -14,7 +14,8 @@ Meu nome é __Paulo Fonseca__, sou nascido em Recife, Brasil e atualmente estou 
 
 ## Melhores habilidades (até o momento)
 
-* Python
+* __Python__
+* JavaScript
 * Programação de Arduino em C++
 
 ## Contato
