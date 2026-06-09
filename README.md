@@ -4,7 +4,7 @@
 
 # Quem sou eu?
 
-Meu nome é __Paulo Fonseca__, sou nascido em Recife, Brasil e atualmente estou cursando __Ciência da Computação na CESAR School__. Tenho forte interesse pela programação e design, o que motiva por aprimorar minhas habilidades tanto na área de Back-End como na área de Front-End para buscar uma ocupação como __Full-Stack__.
+Meu nome é __Paulo Fonseca__, sou nascido em Recife, Brasil e atualmente estou cursando __Ciência da Computação na CESAR School__. Tenho forte interesse por programação e design, o que motiva por aprimorar minhas habilidades tanto na área de Back-End como na área de Front-End para buscar uma ocupação como __Full-Stack__.
 
 ## Meus interesses
 
